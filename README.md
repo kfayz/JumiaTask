@@ -5,13 +5,11 @@
 
 - 🔭 &nbsp; Project is built using java, selenium and maven.
 - 🤔 &nbsp; Project structure consits of  :
-- <ul>
-- <li>Page objects in src/main/java/pages<li>
+- Page objects in src/main/java/pages
 - Test cases in src/test/java/testcases
 - Excel sheet for data driven testing in src/test/java/testdata
 - Excel sheet utility in src/test/java/utilities
 - Chromium webdriver in src/main/java/drivers
-- <ul>
 
 <h3>🛠 Tech Stack</h3>
 
