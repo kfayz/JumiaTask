@@ -11,7 +11,7 @@
   - Excel sheet utility in src/test/java/utilities
   - Chromium webdriver in src/main/java/drivers
 
-<h3>🛠 Tech Used</h3>
+<h3>🛠 Technologies </h3>
 
 - 💻 &nbsp; Java | TESTNG | Selenium | Maven | PageFactory  
 
