@@ -5,6 +5,7 @@
 
 - 🔭 &nbsp; Project is built using java, selenium and maven.
 - 🤔 &nbsp; Project structure consits of  :
+  
 - Page objects in src/main/java/pages
 - Test cases in src/test/java/testcases
 - Excel sheet for data driven testing in src/test/java/testdata
